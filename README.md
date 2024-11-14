@@ -1,5 +1,9 @@
 # Enterprise Security Engineering Projects Portfolio
 
+A showcase of my hands-on projects in **Cybersecurity**, **Cloud Security**, **Network Management**, and **more**. Each project demonstrates my skills in securing, optimizing, and managing digital environments.
+
+Explore below for details!
+
 ## 🔗 Active Directory & Identity Management
 - **[Active Directory: Centralized Identity and Access Management](https://github.com/rasheedjimoh/ActiveDirectory/)**
   - Configured on Windows Server 2022 with AD, DHCP, DNS, and Routing Services. Automated the creation of 1,000+ user accounts with PowerShell and connected endpoints to the Active Directory domain.
