@@ -54,7 +54,7 @@ Explore below for details!
   - Deployed a LAMP stack on Linux for dynamic web hosting, with enhanced security features.
 
 ## 🔗 Security Operations & Monitoring
-- **[Azure Cloud Honeynet SOC](https://github.com/rasheedjimoh/AzureCloud-SOC/)**
+- **[Real-Time Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)**
   - Built an advanced Security Operations Center environment with Azure Honeynet for proactive threat detection.
 - **[Ingesting pfSense Logs into Security Onion](https://github.com/rasheedjimoh/pfslog2soc/)**
   - Configured network security monitoring by feeding pfSense logs into Security Onion via Elastic Fleet.
